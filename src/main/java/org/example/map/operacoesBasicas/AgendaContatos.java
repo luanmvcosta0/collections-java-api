@@ -1,4 +1,4 @@
-package org.example.list.operacoesBasicas;
+package org.example.map.operacoesBasicas;
 
 import java.util.HashMap;
 import java.util.Map;

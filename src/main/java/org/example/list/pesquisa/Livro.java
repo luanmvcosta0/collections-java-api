@@ -1,4 +1,4 @@
-package org.example.pesquisa;
+package org.example.list.pesquisa;
 
 public class Livro {
 
