@@ -9,15 +9,13 @@ Este repositório é destinado à prática e estudo das principais interfaces da
 Os exercícios foram baseados no conteúdo disponibilizado por [@cami-la](https://github.com/cami-la), e podem ser encontrados no repositório original:  
 🔗 [github.com/cami-la/collections-java-api-2023](https://github.com/cami-la/collections-java-api-2023)
 
----
-
 ✅ **Objetivo:** Praticar a implementação e uso de coleções em Java, compreendendo seus comportamentos, vantagens e diferenças.
 
 ---
 
 # Exercícios:
 
-Operações Básicas com List
+##Operações Básicas com List
 1. Lista de Tarefas
 Crie uma classe chamada "ListaTarefas" que possui uma lista de tarefas como atributo. Cada tarefa é representada por uma classe chamada "Tarefa" que possui um atributo de descrição. Implemente os seguintes métodos:
 
@@ -65,7 +63,7 @@ ordenarDescendente(): Ordena os números da lista em ordem descendente usando um
 
 ---
 
-Operações Básicas com Set
+##Operações Básicas com Set
 1. Conjunto de Convidados
 Crie uma classe chamada "ConjuntoConvidados" que possui um conjunto de objetos do tipo "Convidado" como atributo. Cada convidado possui atributos como nome e código do convite. Implemente os seguintes métodos:
 
@@ -118,7 +116,7 @@ exibirAlunos(): Exibe todos os alunos do conjunto.
 
 ---
 
-Pesquisa em Map
+##Pesquisa em Map
 1. Estoque de Produtos com Preço
 Crie uma classe chamada "EstoqueProdutos" que utilize um Map para armazenar os produtos, suas quantidades em estoque e seus respectivos preços. Cada produto possui um código como chave e um objeto Produto como valor, contendo nome, quantidade e preço. Implemente os seguintes métodos:
 
